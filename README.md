@@ -1,17 +1,27 @@
-# Fraction Circle with Effects (Manim)
+# Dayira - Fraction Circle with Effects (Manim)
 
-This repository contains a Python code to generate a fraction circle with multiple slices using [Manim](https://docs.manim.community/en/stable/). The circle can be animated with several effects like explosion, indication, and dimming for remaining slices. This project is designed to demonstrate the use of Manim’s animation capabilities and the creation of dynamic visual effects for educational purposes.
+## Project Overview
+
+**Dayira** is a Python-based project that utilizes the Manim library to create animated fraction circles. The circle is divided into multiple slices, and various effects such as explosions, indications, and dimming can be applied to enhance the animation.
+
+This project is designed to demonstrate the power of Manim for generating complex mathematical visualizations with interactive effects.
 
 ## Features
 
-- **Create a Circle**: Generates a fraction circle divided into slices.
-- **Exploding Slices**: Animates the slices exploding outward from the center.
-- **Indicating Slices**: Allows highlighting specific slices with color changes and scaling.
-- **Dimming Effects**: Dims the remaining slices after the indication animation.
+- **Fraction Circle Creation**: Generates a circle divided into multiple slices (sectors).
+- **Explosion Effect**: Animates the slices exploding outward from the center.
+- **Indication Effect**: Allows highlighting specific slices with color changes and scaling.
+- **Dimming Effect**: Dims the non-indicated slices to emphasize the indicated ones.
 
 ## Installation
 
-To use this code, you need to have [Manim](https://docs.manim.community/en/stable/) installed. You can install it via `pip`:
+Before running the code, you need to install the required dependencies. This project uses **Manim** and **numpy**.
+
+### Install Manim
+
+Manim is a community-maintained Python library for mathematical animations.
+
+You can install Manim using `pip`:
 
 ```bash
 pip install manim

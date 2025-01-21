@@ -1,3 +1,5 @@
+![Dayira Banner](https://raw.githubusercontent.com/xposed73/dayira-manim/refs/heads/main/img.jpg)
+
 # Dayira - Fraction Circle with Effects (Manim)
 
 ## Project Overview

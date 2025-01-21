@@ -22,8 +22,3 @@ Before running the code, you need to install the required dependencies. This pro
 Manim is a community-maintained Python library for mathematical animations. To install Manim Community v0.19.0, follow the instructions from the official documentation:
 
 [Manim Community v0.19.0 Documentation](https://docs.manim.community/en/stable/index.html)
-
-You can also install it using `pip`:
-
-```bash
-pip install manim

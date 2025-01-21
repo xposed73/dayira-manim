@@ -17,11 +17,19 @@ This project is designed to demonstrate the power of Manim for generating comple
 
 Before running the code, you need to install the required dependencies. This project uses **Manim** and **numpy**.
 
-### Install Manim
+### Install Manim using uv
 
-Manim is a community-maintained Python library for mathematical animations.
-
-You can install Manim using `pip`:
+MacOS and Linux `uv`:
 
 ```bash
-pip install manim
+curl -LsSf https://astral.sh/uv/install.sh | sh
+```
+
+Windows `uv`:
+
+```bash
+powershell -ExecutionPolicy ByPass -c "irm https://astral.sh/uv/install.ps1 | iex"
+```
+
+
+

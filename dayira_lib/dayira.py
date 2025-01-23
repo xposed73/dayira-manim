@@ -7,6 +7,7 @@
 # For licensing information, refer to the LICENSE file.
 
 from manim import *
+from manim import config as manim_config
 import numpy as np
 
 # Configuration Functions
